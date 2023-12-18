@@ -1,8 +1,7 @@
 # Study of certain probabilities in some board games
 
-That project started many years ago, It is documented in Spanish and the style can be improved. I'm working to fix that.
-
-Don't judge me, I'm just a freak.
+### Roadpam
+That project started many years ago, It is documented in Spanish and the code style can be improved. I'm working to fix that.
 
 ### Author
 Antonio Sevilla Sastre
