@@ -1,4 +1,4 @@
-# Study of Certain Probabilities in Some Board Games
+# Study of certain Probabilities in some Board Games
 
 ### Content
 The aim is to study the probability of important events in different games of chance, board games and card games, using combinatorics, statistics and Python programming. Each script corresponds to a different game.
